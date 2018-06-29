@@ -1,1 +1,3 @@
 testnote2
+
+* MERGECONFLICT
